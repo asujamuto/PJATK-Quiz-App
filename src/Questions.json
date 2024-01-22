@@ -1,0 +1,106 @@
+{
+    "Questions": [
+        {
+            "Kategoria": "Chipsety",
+            "Pytanie": "Za co odpowiada mostek północny?",
+            "Odpowiedź": "Za współpracę między I/O",
+            "Prezentacja": "8"
+        },
+        {
+            "Kategoria": "Chipsety",
+            "Pytanie": "Wymień elementy ogólnego schematu Chipsetu",
+            "Odpowiedź": "Procesor, Pamięć RAM, Chipset1 North Bridge,  Chipset 2 South Bridge",
+            "Prezentacja": "8"
+        },
+        {
+            "Kategoria": "Chipsety",
+            "Pytanie": "Czym jest układ Super I/O",
+            "Odpowiedź": "Integruje wszystkie pozostałe I/O, które nie są wspierane przez Chipset",
+            "Prezentacja": "8"
+        },
+        {
+            "Kategoria": "Chipsety",
+            "Pytanie": "Wymień podstawe układy występujące w Chipsetach (przynajmniej 3)",
+            "Odpowiedź": "sterownik pamięci dynamicznych, sterownik CPU, sterownik pamięci RAM, sterownik pamięci CACHE, sterownik klawiatury, sterownik magistral, dysków, interfejsów, przerwań (IRQ) i DMA, układ zegara, układ zarządzania energią",
+            "Prezentacja": "8"
+        },
+        {
+            "Kategoria": "Płyty Główne",
+            "Pytanie": "Wymień standardy płyt głównych (przynajmniej 3)",
+            "Odpowiedź": "AT, ATX, WTX, NLX, BTX, ITX",
+            "Prezentacja": "8"
+        },
+        {
+            "Kategoria": "Płyty Główne",
+            "Pytanie": "Workstation Technology Extended w skrócie WTX to nazwa: a. Programu wgranego na ROM b. ",
+            "Odpowiedź": "c",
+            "Prezentacja": "8"
+        },
+        {
+            "Kategoria": "I/O",
+            "Pytanie": "Czym się różni transmisja szeregowa od równoległej",
+            "Odpowiedź": "W transmisji szeregowej informacja jest przesyłana bit po bicie, w transmisji równoległej przesyłany jest zestaw bitów",
+            "Prezentacja": "9"
+        },
+        {
+            "Kategoria": "I/O",
+            "Pytanie": "Wymień magistrale zewnętrzne",
+            "Odpowiedź": "iSA, AMR, CNR, EISA, MCA",
+            "Prezentacja": "9"
+        },
+        {
+            "Kategoria": "I/O",
+            "Pytanie": "Wymień magistrale wewnętrzne",
+            "Odpowiedź": "Vesa-Local Bus, PCI, AGP, PCI-X, PCI-Express",
+            "Prezentacja": "9"
+        },
+        {
+            "Kategoria": "I/O",
+            "Pytanie": "Ilu stykowe jest gniazdo ISA (Industry Standard Architecture)?",
+            "Odpowiedź": "w wersji 8-bitowej: 62,\n w wersji 16 bitowej: 98",
+            "Prezentacja": "9"
+        },
+        {
+            "Kategoria": "I/O",
+            "Pytanie": "Ile bitów ma magistrala danych w ISA (Industry Standard Architecture)?",
+            "Odpowiedź": "w wersji 8-bitowej: magistrala danych ma 8-bitów, w wersji 16-bitowej: magistrala danych ma 16 bitów",
+            "Prezentacja": "9"
+        },
+        {
+            "Kategoria": "I/O",
+            "Pytanie": "Ile bitów ma magistrala adresowa w  ISA (Industry Standard Architecture)?",
+            "Odpowiedź": "w wersji 8-bitowej: magistrala adresowa ma 20 bitów, w wersji 16-bitowej: magistrala adresowa ma 24 bity",
+            "Prezentacja": "9"
+        },
+        {
+            "Kategoria": "I/O",
+            "Pytanie": "Czym jest AMR? Podaj rozszerzenie nazwy i opisz krótko.",
+            "Odpowiedź": "Audio/Modem Riser  instaluje się w nim karty rozszerzające na których znajdują się zwykle układy analogowe danego urządzenia",
+            "Prezentacja": "9"
+        },
+        {
+            "Kategoria": "I/O",
+            "Pytanie": "Czym się różnią magistrale zewnętrzne od wewnętrznych?",
+            "Odpowiedź": "Magistrale zewnętrzne są taktowane własnym zegarem, a magistrale wewnętrzne podlegają częstotliowości taktowania zegara systemowego.",
+            "Prezentacja": "9"
+        },
+        {
+            "Kategoria": "I/O",
+            "Pytanie": "Czym jest VLB? \n a. Magistralą lokalną \n b. Elementem mikroprocesora \n c. Rodzajem interfejsu",
+            "Odpowiedź": "a",
+            "Prezentacja": "9"
+        },
+        {
+            "Kategoria": "Interfejsy I/O",
+            "Pytanie": "Wymień interfejsy równoległe",
+            "Odpowiedź": "CENTRONICS, ECP, EPP",
+            "Prezentacja": "10"
+        },
+        {
+            "Kategoria": "Interfejsy I/O",
+            "Pytanie": "Wymień interfejsy szeregowe",
+            "Odpowiedź": "RS-232C, USB, IEEE 1394 (FireWire)",
+            "Prezentacja": "10"
+        }
+    ]
+}
